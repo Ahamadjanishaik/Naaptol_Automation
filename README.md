@@ -87,7 +87,7 @@ Naaptol_project_TestNG/
 └─ README.md
 
 
-##Selenium Installation & Getting Started
+## Installation and Getting Started
 
 **Prerequisites**
 
@@ -97,7 +97,7 @@ Ensure you have installed Java on your system
 
 **Step-1 :** Download & Install any Code Editor. I have installed Spring Tool Suite.
 
-**Step-2 :** Install TestNG and Cucumber Frameworks in the Editor.
+**Step-2 :** Install TestNG and Cucumber Frameworks and all other dependencies in the Editor.
 
 **Step-3 :** Download the Project & Open the Project in Spring Tool Suite or Any Code Editor.
 
