@@ -40,9 +40,6 @@ The primary objective of this project is to automate the navigation and purchasi
 
 
 
-
-
-
 ## Application Under Test
 AUT : https://www.naaptol.com/
 ## Scope
@@ -60,8 +57,6 @@ AUT : https://www.naaptol.com/
 - Cucumber
 - Behavior-driven development
 - TestNG 
-
-
 
 
 ## Directory Structure
@@ -87,7 +82,7 @@ Naaptol_project_TestNG/
 └─ README.md
 
 
-**Installation and Getting Started**
+## Installation and Getting Started
 
 **Prerequisites**
 
