@@ -87,7 +87,7 @@ Naaptol_project_TestNG/
 └─ README.md
 
 
-## Installation and Getting Started
+**Installation and Getting Started**
 
 **Prerequisites**
 
