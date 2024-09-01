@@ -1,5 +1,5 @@
 
-![Logo](https://drive.google.com/file/d/1t5d8t2uWhOgRk726pHJHUW9VHa_3XRMy/view?usp=sharing)
+![Logo](https://github.com/Ahamadjanishaik/Naaptol_Automation/issues/1#issue-2499519479)
 
 ![Website](https://drive.google.com/file/d/1nrDuHesL3fA7oWwOKXF0f_53dEaTnOBp/view?usp=sharing)
 # Naaptol
